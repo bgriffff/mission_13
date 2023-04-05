@@ -1,3 +1,4 @@
+//All the types
 export type Movie = {
   movieId: number;
   category: string;
