@@ -1,3 +1,4 @@
+//Movies Page
 import React, { useState } from "react";
 import data from "../data/MovieData.json";
 

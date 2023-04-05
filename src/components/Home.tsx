@@ -1,3 +1,4 @@
+//Home Page
 import joel from "../img/JoelHiltonHeadshot.jpg";
 
 export const Home = () => {
